@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Travis Evashkevich👋
+
+I am a Pipeline Technical Artist in the Games Industry. 
 
 <!--
 **TravisEvashkevich/TravisEvashkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
