@@ -1,6 +1,9 @@
 ### Hi there I'm Travis Evashkevich👋
 
-I am a Pipeline Programmer in the Games Industry for Playstation London.
+I'm a Senior Technical Artist @ Tanglewood Games
+Previously:
+Pipeline Programmer @ Playstation London
+Technical Artist @ Electric Square
 
 <!--
 **TravisEvashkevich/TravisEvashkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
