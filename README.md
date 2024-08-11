@@ -1,6 +1,6 @@
 ### Hi there I'm Travis Evashkevich👋
 
-I'm a Senior Technical Artist @ Tanglewood Games
+I'm a Senior Art Tools Engineer @ Spliced Inc
 
 Previously:
 - Pipeline Programmer @ Playstation London
