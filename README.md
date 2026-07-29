@@ -1,8 +1,9 @@
 ### Hi there I'm Travis Evashkevich👋
 
-I'm a Senior Art Tools Engineer @ Spliced Inc
+I'm a Principal Pipeline Tech Artist @ Rebellion
 
 Previously:
+- Senior Art Tools Engineer @ Spliced Inc
 - Pipeline Programmer @ Playstation London
 - Technical Artist @ Electric Square
 
